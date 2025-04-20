@@ -1,4 +1,4 @@
-# demo
-first
+# Demo
+First
 <br>
-author:Safal Shrestha
+Author:Safal Shrestha
